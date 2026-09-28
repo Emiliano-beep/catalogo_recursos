@@ -14,3 +14,5 @@ Tecnologias utilizadas:
 
 
 Instrucciones para preparar el entorno virtual y dependencias:
+
+Proximas mejoras 

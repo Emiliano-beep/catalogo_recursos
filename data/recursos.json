@@ -1,1 +1,22 @@
-Agrega al menos dos registros de ejemplo.
+{
+  "frase": "El conocimiento es poder",
+  "autor": "Francis Bacon",
+  "año": 1597
+}
+
+{
+  "id": "frase_002",
+  "texto_original": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+  "idioma": "es",
+  "traduccion_ingles": "Life is what happens when you're busy making other plans.",
+  "etiquetas": ["vida", "reflexión", "tiempo"]
+}
+
+{
+  "frase": "Nunca dejes de aprender, porque la vida nunca deja de enseñar.",
+  "metadatos": {
+    "numero_palabras": 10,
+    "sentimiento": "positivo",
+    "favorable_para_compartir": true
+  }
+}
