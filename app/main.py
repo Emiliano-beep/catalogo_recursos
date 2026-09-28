@@ -1,1 +1,1 @@
-print("Catalogo de recursos")
+print("Catalogo de recursos.")
